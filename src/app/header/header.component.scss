@@ -1,0 +1,17 @@
+$bgcolor2: #08302F;
+$textcolor: #ffff;
+
+.header {
+    height: 100px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: $bgcolor2;
+}
+
+.header-text {
+    font-size: 25px;
+    color: $textcolor;
+    padding-top: 30px;
+}

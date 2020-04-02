@@ -1,0 +1,18 @@
+$footerbg: #08302F;
+$textcolor: #ffff;
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: $footerbg;
+    text-align: center;
+
+    .footer-text {
+        font-size: 18px;
+        color: $textcolor;
+        padding-top: 20px;
+    }
+}
